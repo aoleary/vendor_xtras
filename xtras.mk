@@ -85,6 +85,35 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
+    UnmonetThemeAndroidOverlay \
+    UnmonetThemeSettingsOverlay \
+    NexodusThemeAndroidOverlay \
+    NexodusThemeSettingsOverlay \
+    NexodusThemeSystemUIOverlay \
+    ProjectOptronicThemeAndroidOverlay \
+    ProjectOptronicThemeSettingsOverlay \
+    ProjectOptronicThemeSystemUIOverlay \
+    PacleggersThemeAndroidOverlay \
+    PacleggersThemeSettingsOverlay \
+    PacleggersThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay \
+    ShishuIllusionsThemeAndroidOverlay \
+    ShishuIllusionsThemeSettingsOverlay \
+    ShishuIllusionsThemeSystemUIOverlay \
+    ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay \
+    ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay \
     BakedGreenSystemOverlay \
     BakedGreenSystemUIOverlay \
     ChocoXSystemOverlay \
