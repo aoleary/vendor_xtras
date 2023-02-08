@@ -25,10 +25,10 @@
     <color name="system_neutral1_400">#8989A1</color>
     <color name="system_neutral1_500">#6a6a86</color>
     <color name="system_neutral1_600">#4c4c60</color>
-    <color name="system_neutral1_700">#2e2e3a</color>
-    <color name="system_neutral1_800">#2e2e3a</color>
-    <color name="system_neutral1_900">#101014</color>
-    <color name="system_neutral1_1000">#101014</color>
+    <color name="system_neutral1_700">#000000</color>
+    <color name="system_neutral1_800">#000000</color>
+    <color name="system_neutral1_900">#000000</color>
+    <color name="system_neutral1_1000">#000000</color>
 
     <color name="system_neutral2_0">#f7f7fe</color>
     <color name="system_neutral2_10">#f7f7fe</color>
@@ -39,10 +39,10 @@
     <color name="system_neutral2_400">#8989A1</color>
     <color name="system_neutral2_500">#6a6a86</color>
     <color name="system_neutral2_600">#4c4c60</color>
-    <color name="system_neutral2_700">#2e2e3a</color>
-    <color name="system_neutral2_800">#2e2e3a</color>
-    <color name="system_neutral2_900">#101014</color>
-    <color name="system_neutral2_1000">#101014</color>
+    <color name="system_neutral2_700">#000000</color>
+    <color name="system_neutral2_800">#000000</color>
+    <color name="system_neutral2_900">#000000</color>
+    <color name="system_neutral2_1000">#000000</color>
 
     <!-- Changes for background theme, the system_neutral method 
         doesn't work for transparency -->
